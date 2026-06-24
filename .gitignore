@@ -1,0 +1,18 @@
+# Dataset (374 MB — exceeds GitHub's recommended file size limit)
+data/waiting_times.csv
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.venv/
+venv/
